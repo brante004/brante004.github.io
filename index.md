@@ -1,8 +1,8 @@
-## Portfolio
+# Project Showcase
 
 ---
 
-### Category Name 1 
+## Consulting / Strategy Project
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+## Coding / Mapping(GIS) Project
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Happy to talk anytime! Welcome to reach out.</p>
 <!-- Remove above link if you don't want to attibute -->
