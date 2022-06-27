@@ -18,7 +18,7 @@
 
 ---
 [One-page Comparison of Business Model](/pdf/yz.pdf)
-<img src="images/consulting/yz.jpg?raw=true"/>
+<img src="images/consulting/yz.png?raw=true"/>
 
 ---
 ## Coding / Mapping(GIS) Project
