@@ -5,19 +5,19 @@
 
 ## Consulting / Strategy Project
 
-[Project 1 Title](/pdf/bain.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Nongfu Spring's Growth Strategy in China](/pdf/bain.pdf)
+<img src="images/consulting/bain.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/chewy.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Financial Modelling for Chewy Inc.](/pdf/chewy.pdf)
+<img src="images/consulting/chewy.png?raw=true"/>
 
 ---
 [Competition Analysis of Ride Hailing Company](/pdf/rh.pdf)
 <img src="images/consulting/rh.png?raw=true"/>
 
 ---
-[One-page Comparison of Business Model](/pdf/yz.pdf)
+[Business Model of Youzan](/pdf/yz.pdf)
 <img src="images/consulting/yz.png?raw=true"/>
 
 ---
