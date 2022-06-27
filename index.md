@@ -3,6 +3,10 @@
 ---
 <p style="font-size:14px">Below are only some exhibitions while others can't be demonstrated due to confidentiality.</p>
 
+## Resume
+
+<p style="font-size:14px"><a href="https://github.com/brante004/brante004.github.io/pdf/resume.pdf">Here</a>'s my resume</p>
+
 ## Consulting / Strategy Project
 
 [Nongfu Spring's Growth Strategy in China](/pdf/bain.pdf)
