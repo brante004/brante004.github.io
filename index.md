@@ -27,7 +27,7 @@
 ---
 ## Coding / Mapping(GIS) Project
 
-- [(GIS)Railway Density & Covid Cases](http://example.com/)
+- [(GIS)Railway Density & Covid Cases](/pdf/gis.pdf)
 <img src="images/Coding/gis.png?raw=true"/>
 
 ---
