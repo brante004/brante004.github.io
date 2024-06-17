@@ -5,7 +5,7 @@
 
 ## Resume
 
-<p style="font-size:14px"><a href="https://github.com/brante004/brante004.github.io/blob/e558db012beb9886712455beee009a745f9bb76d/pdf/resume.pdf">Here's</a> my resume</p>
+<p style="font-size:14px"><a href="pdf/resume.pdf">Here's</a> my resume</p>
 
 ## Consulting / Strategy Project
 
